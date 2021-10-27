@@ -1,0 +1,14 @@
+{
+  "name": "mern-pro-shop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tcho",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
